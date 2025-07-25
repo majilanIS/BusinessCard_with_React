@@ -1,0 +1,21 @@
+
+section{
+    margin: 0 auto;
+    width: 90%;
+    margin-top: 20px;
+    border-radius: 10px;
+    border:1px solid black
+}
+h1{
+    text-align: center;
+    margin: auto 0;
+    padding: 10px;
+
+    background-color: coral;
+    overflow: hidden;
+}
+.container-2{
+    border: none;
+    margin: 0 auto;
+    padding: 10px 55px;
+}
