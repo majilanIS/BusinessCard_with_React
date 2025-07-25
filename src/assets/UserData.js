@@ -26,24 +26,3 @@ let userData = [
 ]
 
 export default userData;
-
- {/* <div className='container-2'>
-          <Card_1
-          color="firstColor"
-          name="Abebe"
-          email="Abebe1221@gmail.com"
-          number="0911123456"
-        />
-        <Card_1
-          color="secondColor"
-          name="Chekole"
-          email="chekolengusalem@gmail.com"
-          number="0945977754"
-        />
-        <Card_1
-          color="thirdColor"
-          name="Abel"
-          email="abel21@gmail.com"
-          number="0911121212"
-        />
-        </div> */}
